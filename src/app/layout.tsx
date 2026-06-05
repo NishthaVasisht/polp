@@ -21,7 +21,7 @@ const teko = Teko({
 
 export const metadata: Metadata = {
   title: "POLP | The Iberian Polp",
-  description: "Gaseosa, seltzer and soft drinks POLP, a historic brand with the best chunks in today's bars.",
+  description: "POLP is the revolution of the drink. Real fruit chunks, pure vibes, and zero compromise. The first beverage designed to be bitten.",
 };
 
 export default function RootLayout({
