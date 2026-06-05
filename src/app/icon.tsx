@@ -16,14 +16,14 @@ export default function Icon() {
       // ImageResponse JSX element
       <div
         style={{
-          fontSize: 24,
-          background: 'black',
+          fontSize: 28,
+          background: 'transparent',
           width: '100%',
           height: '100%',
           display: 'flex',
           alignItems: 'center',
           justifyContent: 'center',
-          color: '#FF00FF', // polp-pink
+          color: 'black',
           fontWeight: 900,
           fontFamily: 'sans-serif',
           textTransform: 'uppercase',
