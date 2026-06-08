@@ -20,7 +20,7 @@ const teko = Teko({
 });
 
 export const metadata: Metadata = {
-  title: "POLP | The Iberian Polp",
+  title: "POLP | The Polp",
   description: "POLP is the revolution of the drink. Real fruit chunks, pure vibes, and zero compromise. The first beverage designed to be bitten.",
   icons: {
     icon: "/images/favicon.png",
